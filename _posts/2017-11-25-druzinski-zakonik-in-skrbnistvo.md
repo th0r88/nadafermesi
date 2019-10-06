@@ -3,7 +3,7 @@ layout: post
 title: Družinsko pravo – Razmerja med zakoncema, razmerja med starši in otroki
 ---
 
-Družinski zakonik in skrbništvo – ponovno
+## Družinski zakonik in skrbništvo – ponovno
 
 Ne morem si kaj, da ne bi spet napisala vsaj nekaj o temi, za tiste, ki delamo (tudi oziroma med drugim) na področju skrbništva, nikoli »dokončani« ali »primerno urejeni«, o SKRBNIŠTVU. Govorim o skrbništvu, kot posebni obliki varstva mladoletnikov, za katere ne skrbijo starši, in polnoletnih oseb, ki niso sposobne same skrbeti zase, za svoje pravice in koristi. Posebno varstvo zagotavlja država tudi drugim osebam, ki nimajo možnosti same skrbeti za svoje pravice in koristi (9. člen Zakona o zakonski zvezi in družinskih razmerjih, ZZZDR).
 

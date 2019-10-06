@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O meni
+permalink: /o-meni/
 ---
 
-Some information about you!
+![Nada Caharijaz Ferme!](/images/portret.jpg "Nada Caharijaz Ferme")
 
-### More Information
+Zaposlitev:
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- Center za socialno delo Celje
+- Višja predavateljica za predmeta Kaj je socialna država ter Pravo in vodenje dokumentacij v sociali Višji strokovni šoli Ekonomske šole v Celju in za Upravno pravo na Višji strokovni šoli Ekonomske šole Celje.

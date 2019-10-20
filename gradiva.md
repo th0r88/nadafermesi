@@ -12,5 +12,8 @@ permalink: /gradiva/
 - [Kaj je socialna država - 4](/uploads/Kaj_je_socialna_drzava_04.pdf)
 - [Kaj je socialna država - 5](/uploads/Kaj_je_socialna_drzava_05.pdf)
 - [Kaj je socialna država - 6](/uploads/Kaj_je_socialna_drzava_06.pdf)
+- [Kaj je socialna država - 7](/uploads/Kaj_je_socialna_drzava_07.pdf)
+- [Kaj je socialna država - 8](/uploads/Kaj_je_socialna_drzava_08.pdf)
+- [Kaj je socialna država - Vprašanja](/uploads/Kaj_je_socialna_drzava_vprasanja.pdf)
 
 _Vse datoteke so v PDF formatu._

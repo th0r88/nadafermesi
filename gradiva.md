@@ -4,6 +4,13 @@ title:  Gradiva
 permalink: /gradiva/
 ---
 
+### Upravno pravo
+
+- [Upravno pravo - 1](/uploads/Upravno_Pravo_01.pdf)
+- [Upravno pravo - 2](/uploads/Upravno_Pravo_02.pdf)
+
+
+
 ### Kaj je socialna država:
 
 - [Kaj je socialna država - 1](/uploads/Kaj_je_socialna_drzava_01.pdf)

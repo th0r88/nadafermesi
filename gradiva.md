@@ -10,6 +10,8 @@ permalink: /gradiva/
 - [Upravno pravo - 2](/uploads/Upravno_Pravo_02.pdf)
 - [Upravno pravo - 3](/uploads/Upravno_Pravo_03.pdf)
 - [Upravno pravo - 4](/uploads/Upravno_Pravo_04.pdf)
+- [Upravno pravo - 5](/uploads/Upravno_Pravo_05.pdf)
+- [Upravno pravo - 6](/uploads/Upravno_Pravo_06.pdf)
 
 
 

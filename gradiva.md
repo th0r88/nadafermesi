@@ -4,6 +4,11 @@ title:  Gradiva
 permalink: /gradiva/
 ---
 
+### Pravo in vodenje dokumentacij v sociali
+
+- [Upravno pravo - 1](/uploads/PVDS_01.pdf)
+- [Upravno pravo - 2](/uploads/Pravo_pravna_ureditev.pdf)
+
 ### Upravno pravo
 
 - [Upravno pravo - 1](/uploads/Upravno_Pravo_01.pdf)

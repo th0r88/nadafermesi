@@ -6,8 +6,8 @@ permalink: /gradiva/
 
 ### Pravo in vodenje dokumentacij v sociali
 
-- [Upravno pravo - 1](/uploads/PVDS_01.pdf)
-- [Upravno pravo - 2](/uploads/Pravo_pravna_ureditev.pdf)
+- [PVDS - 1](/uploads/PVDS_01.pdf)
+- [Pravo - pravna ureditev](/uploads/Pravo_pravna_ureditev.pdf)
 
 ### Upravno pravo
 

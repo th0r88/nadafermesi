@@ -9,18 +9,6 @@ permalink: /gradiva/
 - [PVDS - 1](/uploads/PVDS_01.pdf)
 - [Pravo - pravna ureditev](/uploads/Pravo_pravna_ureditev.pdf)
 
-### Upravno pravo
-
-- [Upravno pravo - 1](/uploads/Upravno_Pravo_01.pdf)
-- [Upravno pravo - 2](/uploads/Upravno_Pravo_02.pdf)
-- [Upravno pravo - 3](/uploads/Upravno_Pravo_03.pdf)
-- [Upravno pravo - 4](/uploads/Upravno_Pravo_04.pdf)
-- [Upravno pravo - 5](/uploads/Upravno_Pravo_05.pdf)
-- [Upravno pravo - 6](/uploads/Upravno_Pravo_06.pdf)
-- [Upravno pravo - 7](/uploads/Upravno_Pravo_07.pdf)
-- [Upravno pravo - Vprašanja](/uploads/Upravno_Pravo_Vprasanja.pdf)
-
-
 
 ### Kaj je socialna država:
 

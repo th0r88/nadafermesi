@@ -7,6 +7,7 @@ permalink: /gradiva/
 ### Pravo in vodenje dokumentacij v sociali
 
 - [PVDS - 1](/uploads/PVDS_01.pdf)
+- [PVDS - 2](/uploads/PVDS_02.pdf)
 - [Pravo - pravna ureditev](/uploads/Pravo_pravna_ureditev.pdf)
 
 

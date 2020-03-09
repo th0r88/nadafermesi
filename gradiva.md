@@ -8,6 +8,7 @@ permalink: /gradiva/
 
 - [PVDS - 1](/uploads/PVDS_01.pdf)
 - [PVDS - 2](/uploads/PVDS_02.pdf)
+- [PVDS - 3](/uploads/PVDS_03.pdf)
 - [Pravo - pravna ureditev](/uploads/Pravo_pravna_ureditev.pdf)
 
 

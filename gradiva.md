@@ -14,6 +14,7 @@ permalink: /gradiva/
 - [PVDS - 7](/uploads/PVDS_07.pdf)
 - [PVDS - 8](/uploads/PVDS_08.pdf)
 - [Pravo - pravna ureditev](/uploads/Pravo_pravna_ureditev.pdf)
+- [PVDS - Vprašanja](/uploads/PVDS_vprasanja.pdf)
 
 
 ### Kaj je socialna država:

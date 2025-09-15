@@ -4,7 +4,7 @@ title: O meni
 permalink: /o-meni/
 ---
 
-![Nada Caharijaz Ferme!](/images/portret.JPG "Nada Caharijaz Ferme")
+![Nada Caharijaz Ferme!](/images/portret.jpg "Nada Caharijaz Ferme")
 
 ## Izobraževanje in usposabljanje:
 

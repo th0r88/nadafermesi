@@ -16,7 +16,7 @@ permalink: /o-meni/
 
 2004:
 
-- Ministrstva za delo, družino in socialne zadeve
+- Ministrstvo za delo, družino in socialne zadeve
 - naziv: **višja svetovalka**
 
 1997:

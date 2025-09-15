@@ -12,4 +12,4 @@ Vprašati se je potrebno o uporabi moralnih norm na področju skrbništva. Na en
 
 Zato bi zakonodajalec moral skrbništvo temeljito prenoviti, zlasti pa poskrbeti, da bi najbližji sorodniki in partner osebe, ki je postavljena pod skrbništvo ali ji je postavljen skrbnik za posebni primer, bili dolžni prevzeti skrbniške naloge ali vsaj navesti tehten razlog zakaj tega ne morejo, ali pa uvesti plačano skrbništvo. Bodisi z ustanovitvijo posebne službe, ki bi to opravljala ali zaposlitvijo dodatnih delavcev na CSD, kot na primer poklicni profil organizator socialne mreže, ki bi opravljali delo skrbnika osebam, ki niso sposobne poskrbeti zase, za svoje koristi.
 
-5. september 2025
+Objavljeno: 5. septembra 2025
